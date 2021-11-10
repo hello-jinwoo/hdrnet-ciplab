@@ -1,4 +1,5 @@
-# Application of HDRnet from repository https://github.com/creotiv/hdrnet-pytorch to Color Constancy
+# Application of HDRnet Color Constancy
+- HDRnet from repository https://github.com/creotiv/hdrnet-pytorch
 
 Python 3.6
 
